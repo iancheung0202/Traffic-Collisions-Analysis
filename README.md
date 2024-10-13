@@ -18,7 +18,7 @@ Below we included a link from the author of the dataset which displays the colum
 There are a lot of rows in this dataset (around 5 million). However, due to the big size we may have to reduce the data in this dataset to fit it into colab without running out of the cloud's memory. The attributes are listed in the data dictionary. The missing values are already assigned to a certain value that is listed in the data dictionary. The specific ways we reduced our data are in each question design.
 ## (ii. d) Data Preparation:
 We will merge the data by CaseID so we will have access to all the data in one single dataframe and it will give us a holistic view of each traffic collision event. Note: There are specific data preparation steps described in each question.
-Data Dictionary: https://docs.google.com/document/d/1RxeKcv0GZVyPS-__EcUg_JGke3aKGlO2/edit?usp=sharing&ouid=110364097269444718069&rtpof=true&sd=true
 
-Actual Dataset Link: https://www.kaggle.com/datasets/alexgude/california-traffic-collision-raw-switrs-data
+- Data Dictionary: https://docs.google.com/document/d/1RxeKcv0GZVyPS-__EcUg_JGke3aKGlO2/edit?usp=sharing&ouid=110364097269444718069&rtpof=true&sd=true
+- Actual Dataset Link: https://www.kaggle.com/datasets/alexgude/california-traffic-collision-raw-switrs-data
 
